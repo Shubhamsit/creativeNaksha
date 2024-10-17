@@ -2,22 +2,22 @@ import React from 'react';
 
 const OurWork = () => {
   const projects = [
-    { imgSrc: '../public/our1.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../public/our2.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../public/our3.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../public/our4.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../public/our5.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../public/our6.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../public/our7.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../public/our8.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../public/our9.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../public/our10.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../public/our11.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../public/our12.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../public/our13.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../public/gallery9.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../public/gallery10.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../public/gallery11.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/our1.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/our2.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/our3.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/our4.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/our5.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/our6.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/our7.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/our8.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/our9.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/our10.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/our11.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/our12.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/our13.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/gallery9.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/gallery10.jpg' }, // Replace with actual image URLs
+    { imgSrc: '/gallery11.jpg' }, // Replace with actual image URLs
  
  
   ];
