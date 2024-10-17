@@ -7,7 +7,7 @@ const ContactUs = () => {
       {/* Founder Section */}
       <div className="flex flex-col md:flex-row items-center md:items-start bg-gradient-to-r from-[#000428] to-[#004e92] shadow-lg rounded-lg p-6 w-full md:w-2/3">
         <img
-          src="../src/assets/aditya.jpg" // Replace with the actual photo
+          src="../public/aditya.jpg" // Replace with the actual photo
           alt="Aditya Kumar Bilamb"
           className="rounded-full w-32 h-32 md:w-48 md:h-48 mb-6 md:mb-0"
         />

@@ -2,22 +2,22 @@ import React from 'react';
 
 const OurWork = () => {
   const projects = [
-    { imgSrc: '../src/assets/our1.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../src/assets/our2.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../src/assets/our3.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../src/assets/our4.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../src/assets/our5.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../src/assets/our6.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../src/assets/our7.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../src/assets/our8.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../src/assets/our9.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../src/assets/our10.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../src/assets/our11.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../src/assets/our12.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../src/assets/our13.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../src/assets/gallery9.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../src/assets/gallery10.jpg' }, // Replace with actual image URLs
-    { imgSrc: '../src/assets/gallery11.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/our1.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/our2.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/our3.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/our4.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/our5.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/our6.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/our7.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/our8.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/our9.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/our10.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/our11.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/our12.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/our13.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/gallery9.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/gallery10.jpg' }, // Replace with actual image URLs
+    { imgSrc: '../public/gallery11.jpg' }, // Replace with actual image URLs
  
  
   ];

@@ -27,7 +27,7 @@ function About() {
     
     <div className='rounded'>
     
-    <img src="../src/assets/cng1.jpg" alt=""  className=' w-[80%] h-[70%] mb-20 top-10 left-10  sm:w-[65%] sm:h-[60%]  overflow-hidden sm:top-20 relative sm:left-40 rounded-xl'/>
+    <img src="../public/cng1.jpg" alt=""  className=' w-[80%] h-[70%] mb-20 top-10 left-10  sm:w-[65%] sm:h-[60%]  overflow-hidden sm:top-20 relative sm:left-40 rounded-xl'/>
     
     
     </div>
