@@ -1,5 +1,5 @@
 import React from 'react'
-import NavBar from './myComponent/navBar'
+import NavBar from './myComponent/NavBar'
 import Body from './myComponent/Body'
 
 
