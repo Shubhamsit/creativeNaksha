@@ -2,19 +2,19 @@ import React from "react";
 
 const Gallery = () => {
   const images = [
-    "../public/gallery1.jpg",
-    "../public/gallery8.jpg",
-    "../public/gallery2.jpg",
-    "../public/gallery3.jpg",
-    "../public/gallery4.jpg",
-    "../public/gallery5.jpg",
-    "../public/gallery6.jpg",
-    "../public/gallery7.jpg",
-    "../public/gallery9.jpg",
-    "../public/gallery10.jpg",
-    "../public/gallery11.jpg",
-    "../public/gallery12.jpg",
-    "../public/gallery13.jpg",
+    "/gallery1.jpg",
+    "/gallery8.jpg",
+    "/gallery2.jpg",
+    "/gallery3.jpg",
+    "/gallery4.jpg",
+    "/gallery5.jpg",
+    "/gallery6.jpg",
+    "/gallery7.jpg",
+    "/gallery9.jpg",
+    "/gallery10.jpg",
+    "/gallery11.jpg",
+    "/gallery12.jpg",
+    "/gallery13.jpg",
    
   ];
 

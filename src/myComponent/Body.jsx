@@ -17,12 +17,12 @@ import { faWhatsapp } from "@fortawesome/free-brands-svg-icons"; // Correctly im
 function Body() {
 
   const imageUrls = [
-    "../public/architectwork.jpg",
-    "../public/design3d.jpg",
-    "../public/interior.jpg",
-    "../public/vastu.jpg",
-    "../public/structural.jpg",
-    "../public/plumbing.jpg"
+    "/architectwork.jpg",
+    "/design3d.jpg",
+    "/interior.jpg",
+    "/vastu.jpg",
+    "/structural.jpg",
+    "/plumbing.jpg"
   ];
 
   const imageName = [
@@ -65,7 +65,7 @@ function Body() {
         
         {/* Image Section */}
         <div className='sm:w-[50%] w-full bg-[#40DFEF]'>
-          <img src="../public/architect.png" alt="Architect Design" className='w-full max-w-full object-cover  relative sm:top-28' />
+          <img src="/architect.png" alt="Architect Design" className='w-full max-w-full object-cover  relative sm:top-28' />
         </div>
 
         {/* Text Section */}
@@ -144,7 +144,7 @@ At Creative Naksha Ghar,
 
 <div className='rounded'>
 
-<img src="../public/cng1.jpg" alt=""  className=' w-[80%] h-[70%] mb-20 top-10 left-10  sm:w-[65%] sm:h-[60%]  overflow-hidden sm:top-20 relative sm:left-40 rounded-xl'/>
+<img src="/cng1.jpg" alt=""  className=' w-[80%] h-[70%] mb-20 top-10 left-10  sm:w-[65%] sm:h-[60%]  overflow-hidden sm:top-20 relative sm:left-40 rounded-xl'/>
 
 
 </div>

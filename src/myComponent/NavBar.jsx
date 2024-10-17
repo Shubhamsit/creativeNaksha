@@ -60,7 +60,7 @@ function NavBar() {
       <div className={`bg-[#021526] h-24 sm:h-20 flex justify-around items-center w-full ${isSticky ? "sticky top-0 left-0 z-50" : ""}`}>
        <Link to="/Home">
        <div className="flex items-center">
-          <img src="./public/creativelogo.png" alt="" className="w-16" />
+          <img src="/creativelogo.png" alt="" className="w-16" />
           <h2 className="ml-8 font-sans font-bold text-xl text-[#FF6600]">
             CREATIVE NAKSHA GHAR
           </h2>
